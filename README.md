@@ -20,10 +20,15 @@ Real-time Facility Carousel: A Swiper carousel showcasing available facilities a
 
 Tech Stack
 Frontend: Next.js, React, Tailwind CSS, Swiper.js
+
 Backend: Node.js, Express.js
+
 Database: MongoDB (MongoDB Atlas for cloud storage)
+
 Authentication: JSON Web Tokens (JWT)
+
 Deployment: Vercel (for frontend), Heroku/Render (for backend)
+
 
 Getting Started
 Prerequisites
