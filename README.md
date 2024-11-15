@@ -23,25 +23,7 @@ Backend: Node.js, Express.js
 Database: MongoDB (MongoDB Atlas for cloud storage)
 Authentication: JSON Web Tokens (JWT)
 Deployment: Vercel (for frontend), Heroku/Render (for backend)
-Project Structure
-graphql
-Copy code
-root
-├── backend
-│   ├── models          # Database models (e.g., User, Crop)
-│   ├── routes          # API endpoints
-│   ├── config          # Database and environment configurations
-│   └── server.js       # Express server setup
-│
-├── frontend
-│   ├── app             # Next.js application directory
-│   ├── components      # Reusable UI components
-│   ├── public          # Static assets
-│   ├── styles          # Global CSS and Tailwind styles
-│   └── pages           # Next.js pages
-│
-├── README.md           # Project overview and documentation
-└── .env.example        # Environment variables template
+
 Getting Started
 Prerequisites
 Make sure you have these tools installed:
@@ -97,4 +79,4 @@ Access the Application:
 
 Open http://localhost:3000 in your browser to access the application.
 
-Contributing
+
