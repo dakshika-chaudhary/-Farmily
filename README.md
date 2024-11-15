@@ -17,6 +17,7 @@ Marketplace Module: A streamlined interface for both farmers and customers to in
 User Authentication: Secure login system for both farmers and customers.
 Crop Management: Easy crop addition, selection, and demand features.
 Real-time Facility Carousel: A Swiper carousel showcasing available facilities and services.
+
 Tech Stack
 Frontend: Next.js, React, Tailwind CSS, Swiper.js
 Backend: Node.js, Express.js
