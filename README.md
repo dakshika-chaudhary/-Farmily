@@ -10,3 +10,6 @@ A full-stack web application designed to facilitate direct interactions between 
 🔒 User Authentication: Secure login system for both farmers and customers.
 🌾 Crop Management: Simplifies crop addition, selection, and demand features.
 🎡 Real-time Facility Carousel: A Swiper-based carousel showcasing platform features.
+
+https://github.com/user-attachments/assets/b8cb00c0-c40c-49b7-b663-8b514fe5d00c
+
