@@ -1,5 +1,5 @@
 🌾 Farmer Marketplace Website
-<!-- Optional: Add a banner image URL -->
+![Screenshot (56)](https://github.com/user-attachments/assets/9053e7e3-8173-40e0-8855-c172b463d74d)
 
 A full-stack web application designed to facilitate direct interactions between farmers and customers, allowing farmers to list their crops for sale and customers to select or demand specific crops. Built using Next.js, Node.js, Express, and MongoDB, this platform provides an intuitive and responsive user experience.
 
