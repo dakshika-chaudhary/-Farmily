@@ -13,3 +13,6 @@ A full-stack web application designed to facilitate direct interactions between 
 
 https://github.com/user-attachments/assets/b8cb00c0-c40c-49b7-b663-8b514fe5d00c
 
+go to = localhost:3000/CropsList
+![Screenshot (59)](https://github.com/user-attachments/assets/498e18ad-1120-4479-bb0d-afce7c5ccfd4)
+
